@@ -18,3 +18,5 @@ export default app;
 // Pattern MVC , Modular
 
 
+// save - save() --> method -> data validate -> schema
+
